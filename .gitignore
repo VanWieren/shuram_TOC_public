@@ -1,0 +1,11 @@
+.ipynb_checkpoints*
+*.jpg
+*.mp4
+*.png
+*.pdf
+papers/
+__pycache__/*
+*.DS_Store
+.vscode/*
+*.svg
+*.pkl
